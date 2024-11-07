@@ -1,2 +1,2 @@
 # hospitalDatabase
-Small python project
+Small python project for practice
