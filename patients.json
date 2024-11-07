@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Adrienne Chiu",
+        "Age": "20",
+        "New Patient": true
+    },
+    {
+        "Name": "Alexa Alvaran",
+        "Age": "21",
+        "New Patient": false
+    },
+    {
+        "Name": "Peter Hang",
+        "Age": "25",
+        "New Patient": true
+    },
+    {
+        "Name": "Christie Amiscua",
+        "Age": "20",
+        "New Patient": true
+    },
+    {
+        "Name": "Kelsy Mandizvidza",
+        "Age": "20",
+        "New Patient": false
+    },
+    {
+        "Name": "Jull Romero",
+        "Age": "500",
+        "New Patient": false
+    }
+]
